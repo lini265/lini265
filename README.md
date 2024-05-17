@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil ❤️ 
+### Boas vindas ao meu perfil 🐰
 
 Meu nome e lini
 -Estou estudando na Alura.
@@ -13,8 +13,6 @@ Meu nome e lini
 
 
 
-
-https://media1.tenor.com/m/LJ3JNWFzFYMAAAAd/cute-bunny-carrot-animated.gif
 
 
 
