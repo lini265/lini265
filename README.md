@@ -1,6 +1,7 @@
 ### Boas vindas ao meu perfil 🥕
 
 Meu nome e lini
+
 -Estou estudando na Alura.
 
 -Estou me desenvolvendo na linguagem javaScript.
